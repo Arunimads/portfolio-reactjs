@@ -1,4 +1,5 @@
-## Responsive Portfolio Web Application
+## Portfolio
+   A responsive portfolio web application created using React JS Framework
 
 ## Installation
 
