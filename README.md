@@ -5,7 +5,9 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Arunimads/portfolio-reactjs.git
+   git clone https://github.com/Arunimads/portfolio-reactjs.git   
+2. **Go to directory**
+    ```bash
    cd portfolio-reactjs
 2. **Install the dependencies:**
     ```bash
