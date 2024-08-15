@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  color: white;
+  background-color: #141414;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: #000;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+}
+
+.nav-links li {
+  margin: 0 1rem;
+  color: white;
+}
+
+.hero {
+  text-align: center;
+  padding: 5rem 2rem;
+}
+
+.hero-image {
+  border-radius: 50%;
+  width: 150px;
+}
+
+.hero-content h1 {
+  font-size: 2.5rem;
+}
+
+.btn {
+  background-color: #a6ff00;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.projects {
+  padding: 3rem 2rem;
+}
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.project-card {
+  background-color: #222;
+  padding: 2rem;
+  flex: 1;
+  min-width: 200px;
+}
+
+.clients {
+  padding: 3rem 2rem;
+}
+
+.client-logos {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.footer {
+  background-color: #000;
+  padding: 2rem;
+  text-align: center;
+}
+
+.cta h2 {
+  margin-bottom: 1rem;
+}
+
+.copyright {
+  margin-top: 1rem;
+  color: gray;
+}
