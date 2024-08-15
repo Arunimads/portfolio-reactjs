@@ -1,13 +1,14 @@
+## Responsive Portfolio Web Application
+
 ## Installation
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Arunimads/portfolio-reactjs.git
    cd portfolio-reactjs
-2. **Create React App:**
+2. **Install the dependencies:**
     ```bash
-   npx create-react-app portfolio
-   cd portfolio
+   npm install    
 3. **Start the development server:**
    ```bash
    npm start
